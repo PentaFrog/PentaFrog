@@ -1,4 +1,4 @@
-print('Hello. Welcome to the Common Grounds Reccomendation App.\n')
+print('Hello. Welcome to the Common Groundsffff Reccomendation App.\n')
 print()
 
 #the first part is just a dictionaries and lists used to get inputs
